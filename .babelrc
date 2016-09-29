@@ -1,0 +1,9 @@
+{
+	"plugins": [
+		"external-helpers"
+	],
+	"presets": [
+		["es2015", { "modules": false }],
+		"react"
+	]
+}
